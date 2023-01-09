@@ -2,25 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>/my-first-page/another-subpage/</loc>
-    <lastmod>2023-01-09T10:17:10+01:00</lastmod>
-  </url><url>
-    <loc>/pages/my-first-page/my-first-subpage/</loc>
-    <lastmod>2023-01-09T10:17:10+01:00</lastmod>
+    <loc>/my-first-page/</loc>
+    <lastmod>2023-01-09T10:16:47+01:00</lastmod>
   </url><url>
     <loc>/</loc>
-    <lastmod>2023-01-09T10:17:10+01:00</lastmod>
+    <lastmod>2023-01-09T10:16:47+01:00</lastmod>
   </url><url>
     <loc>/pages/</loc>
-    <lastmod>2023-01-09T10:17:10+01:00</lastmod>
-  </url><url>
-    <loc>/pages/my-first-page/</loc>
-    <lastmod>2023-01-09T10:16:47+01:00</lastmod>
-  </url><url>
-    <loc>/test-page/</loc>
-    <lastmod>2023-01-09T10:16:47+01:00</lastmod>
-  </url><url>
-    <loc>/my-first-page/my-first-subpage/test-subpage/</loc>
     <lastmod>2023-01-09T10:16:47+01:00</lastmod>
   </url><url>
     <loc>/posts/2023/2023-01-09-my-first-post/</loc>
@@ -34,6 +22,12 @@
   </url><url>
     <loc>/tags/</loc>
     <lastmod>2023-01-09T10:16:02+01:00</lastmod>
+  </url><url>
+    <loc>/pages/branches/branch-1/</loc>
+  </url><url>
+    <loc>/pages/branches/branch-2/</loc>
+  </url><url>
+    <loc>/pages/branches/</loc>
   </url><url>
     <loc>/categories/</loc>
   </url>

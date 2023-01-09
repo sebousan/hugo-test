@@ -16,4 +16,4 @@ theme = 'ananke'
 [permalinks]
   posts = '/posts/:year/:year-:month-:day-:slug/'
   tags = '/posts/:section/:slug/'
-  pages = '/:slug/'
+  pages = '/:sections[1:]/:slug/'

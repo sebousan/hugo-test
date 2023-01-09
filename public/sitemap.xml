@@ -14,6 +14,12 @@
     <loc>/pages/my-first-page/</loc>
     <lastmod>2023-01-09T10:16:47+01:00</lastmod>
   </url><url>
+    <loc>/test-page/</loc>
+    <lastmod>2023-01-09T10:16:47+01:00</lastmod>
+  </url><url>
+    <loc>/my-first-page/my-first-subpage/test-subpage/</loc>
+    <lastmod>2023-01-09T10:16:47+01:00</lastmod>
+  </url><url>
     <loc>/posts/2023/2023-01-09-my-first-post/</loc>
     <lastmod>2023-01-09T10:16:02+01:00</lastmod>
   </url><url>

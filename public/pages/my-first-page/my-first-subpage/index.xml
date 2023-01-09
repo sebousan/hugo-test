@@ -7,5 +7,14 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 09 Jan 2023 10:17:10 +0100</lastBuildDate><atom:link href="/pages/my-first-page/my-first-subpage/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Test subpage&#34;</title>
+      <link>/my-first-page/my-first-subpage/test-subpage/</link>
+      <pubDate>Mon, 09 Jan 2023 10:16:47 +0100</pubDate>
+      
+      <guid>/my-first-page/my-first-subpage/test-subpage/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>

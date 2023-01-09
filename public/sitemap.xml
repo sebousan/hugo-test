@@ -17,11 +17,15 @@
     <loc>/posts/2023/2023-01-09-my-first-post/</loc>
     <lastmod>2023-01-09T10:16:02+01:00</lastmod>
   </url><url>
+    <loc>/posts/tags/my-first-tag/</loc>
+    <lastmod>2023-01-09T10:16:02+01:00</lastmod>
+  </url><url>
     <loc>/posts/</loc>
     <lastmod>2023-01-09T10:16:02+01:00</lastmod>
   </url><url>
-    <loc>/categories/</loc>
-  </url><url>
     <loc>/tags/</loc>
+    <lastmod>2023-01-09T10:16:02+01:00</lastmod>
+  </url><url>
+    <loc>/categories/</loc>
   </url>
 </urlset>

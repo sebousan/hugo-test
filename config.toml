@@ -3,5 +3,10 @@ languageCode = 'en-us'
 title = 'My New Hugo Site'
 theme = 'ananke'
 
+[taxonomies]
+  category = 'categories'
+  tag = 'tags'
+
 [permalinks]
   posts = '/posts/:year/:year-:month-:day-:slug/'
+  tags = '/posts/:section/:slug/'

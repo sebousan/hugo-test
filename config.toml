@@ -3,6 +3,12 @@ languageCode = 'en-us'
 title = 'My New Hugo Site'
 theme = 'ananke'
 
+[menu]
+[[menu.main]]
+  identifier = 'pages'
+  name = 'Pages'
+  url = '/pages/'
+
 [taxonomies]
   category = 'categories'
   tag = 'tags'
@@ -10,3 +16,4 @@ theme = 'ananke'
 [permalinks]
   posts = '/posts/:year/:year-:month-:day-:slug/'
   tags = '/posts/:section/:slug/'
+  pages = '/:slug/'
